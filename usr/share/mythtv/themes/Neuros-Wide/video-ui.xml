@@ -1,0 +1,3334 @@
+<mythuitheme>
+
+	<window name="browser">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<image name="footer" draworder="0" fleximage="no">
+				<filename>background_footer.png</filename>
+				<position>0,540</position>
+			</image>
+			<image name="panel" draworder="0" fleximage="no">
+				<filename>background_panel.png</filename>
+				<position>0,100</position>
+			</image>
+			<image name="heading_icon" draworder="0" fleximage="no">
+				<filename>title/film.png</filename>
+				<position>1150,30</position>
+			</image>
+			<textarea name="title" draworder="0" align="right">
+				<area>650,45,496,100</area>
+				<font>white_huge</font>
+				<value>Videos - Browse View</value>
+			</textarea>
+			<textarea name="videoin" draworder="0" align="hcenter">
+				<area>30,66,500,30</area>
+				<font>gray_tiny</font>
+				<value>[M] view options    [I] file options</value>
+			</textarea>		
+		</container>
+  
+		<container name="info">
+			<area>30,130,1280,390</area>
+			<textarea name="title" draworder="4" align="allcenter">
+				<area>400,0,800,70</area>
+				<font>orange_big</font>
+				<multiline>yes</multiline> 
+			</textarea>		
+			<textarea name="dirlbl" draworder="4" align="left">
+				<area>400,80,160,30</area>
+				<font>yellow_medium</font>
+				<value>Directed by:</value>
+			</textarea>
+			<textarea name="director" draworder="4">
+				<area>580,80,640,30</area>
+				<font>white_medium</font>
+			</textarea>		
+			<textarea name="plot" draworder="4">
+				<area>400,110,820,120</area>
+				<font>white_small</font>
+				<multiline>yes</multiline>
+			</textarea>
+			<textarea name="rating" draworder="4">
+				<area>400,230,820,60</area>
+				<font>yellow_small</font>
+				<multiline>yes</multiline>
+			</textarea>		
+			<textarea name="lenlbl" draworder="4" align="left">
+				<area>400,300,140,30</area>
+				<font>yellow_small</font>
+				<value>Runtime:</value>
+			</textarea>
+			<textarea name="length" draworder="4" align="left">
+				<area>560,300,660,30</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="yrlbl" draworder="4" align="left">
+				<area>400,330,140,30</area>
+				<font>yellow_small</font>
+				<value>Year:</value>
+			</textarea>
+			<textarea name="year" draworder="4" align="left">
+				<area>560,330,660,30</area>
+				<font>white_small</font>
+			</textarea>		
+			<textarea name="userratinglbl" draworder="4" align="left">
+				<area>400,360,140,30</area>
+				<font>yellow_small</font>
+				<value>User Rating:</value>
+			</textarea>
+			<textarea name="userrating" draworder="4" align="left">
+				<area>560,360,660,30</area>
+				<font>white_small</font>
+			</textarea>
+			<image name="coverart" draworder="5" fleximage="no">
+				<position>50,100</position>
+				<staticsize>250,290</staticsize>
+			</image>
+		</container>
+
+		<container name="browsing">
+			<area>30,540,1220,150</area>
+			<textarea name="pl_label" draworder="4" align="left">
+				<area>0,4,180,30</area>
+				<font>green_small</font>
+				<value>Parental Level: </value>
+			</textarea>
+			<textarea name="pl_value" draworder="4" align="left">
+				<area>200,4,40,30</area>
+				<font>white_small</font>
+				<value>1</value>
+			</textarea>
+			<textarea name="currentvideo" draworder="4" align="right">
+				<area>1100,4,120,30</area>
+				<font>yellow_small</font>
+			</textarea>
+		</container>
+		
+		<container name="playwait">
+			<area>420,130,830,390</area>
+			<textarea name="ld1" draworder="0" align="allcenter">
+				<area>0,150,830,30</area>
+				<font>orange_big</font>
+				<value>loading...</value>
+			</textarea>
+			<textarea name="title" draworder="0" align="allcenter">
+				<area>0,200,830,120</area>
+				<font>white_big</font>
+			</textarea>
+		</container>
+		
+		<container name="novideos_info">
+			<area>420,130,830,390</area>
+			<context>20</context>
+			<textarea name="msg" draworder="8" align="allcenter">
+				<area>0,0,830,390</area>
+				<font>orange_big</font>
+				<value>No Videos Found</value>
+				<multiline>yes</multiline>
+			</textarea>
+		</container>
+	</window>
+
+	<window name="gallery">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_micro" face="Bitstream Vera Sans">
+			<color>#4c4c4c</color>
+			<dropcolor>#000000</dropcolor>
+			<size>14</size>
+			<size:big>16</size:big>
+			<size:small>12</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background"> <!-- this is Videos-Galleryview -->
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<!--
+			<image name="footer" draworder="0" fleximage="no">
+				<filename>background_footer.png</filename>
+				<position>0,540</position>
+			</image>
+			
+			<image name="panel" draworder="0" fleximage="no">
+				<filename>background_panel.png</filename>
+				<position>0,100</position>
+			</image>
+			-->
+			<image name="heading_icon" draworder="0" fleximage="no">
+				<filename>title/film.png</filename>
+				<position>1150,30</position>
+			</image>
+			<textarea name="title" draworder="0" align="right">
+				<area>640,45,500,100</area>
+				<font>white_huge</font>
+				<value>Videos</value> <!--  - Gallery View -->
+			</textarea>
+			<textarea name="videoin" draworder="0" align="hcenter">
+				<area>30,66,500,30</area>
+				<font>gray_tiny</font>
+				<value>[M] view options    [I] file options</value>
+			</textarea>
+			<textarea name="keys" draworder="0" align="left">
+				<area>15,15,500,30</area>
+				<font>gray_micro</font>
+				<value>[esc] back to Play Media </value>
+			</textarea>
+		</container>
+
+		<container name="arrows">
+			<area>1210,130,40,600</area>
+			<image name="scrollUpReg" draworder="0" fleximage="no">
+				<context>0</context>
+				<filename>menu_arrow_up.png</filename>
+				<position>0,0</position>
+			</image>
+			<image name="scrollUpSel" draworder="0" fleximage="no">
+				<context>1</context>
+				<filename>menu_arrow_up.png</filename>
+				<position>0,0</position>
+			</image>
+			<image name="scrollDnReg" draworder="0" fleximage="no">
+				<context>0</context>
+				<filename>menu_arrow_down.png</filename>
+				<position>0,475</position>
+			</image>
+			<image name="scrollDnSel" draworder="0" fleximage="no">
+				<context>1</context>
+				<filename>menu_arrow_down.png</filename>
+				<position>0,475</position>
+			</image>
+		</container>
+		
+			<!-- this entry shows the selected video's title, etc. 
+		<container name="text">
+			<area>30,542,1220,30</area>
+			<textarea name="text" draworder="0">
+				<area>0,0,1220,30</area>
+				<font>orange_big</font>
+				<cutdown>yes</cutdown>
+				<multiline>no</multiline>
+			</textarea>
+		</container>
+			-->
+
+		<container name="view"> <!--galleryView spacing/misc of coverArt grid-->
+			<area>87,130,1080,525</area>
+			<blackhole name="view" draworder="1">
+				<area>0,0,1000,600</area>
+			</blackhole>
+			<textarea name="icontext" draworder="1" align="center">
+				<area>0,0,0,0</area>
+				<font>gray_small</font>
+				<cutdown>yes</cutdown>
+				<multiline>yes</multiline>
+			</textarea>			
+			<textarea name="subtext" draworder="1" align="center">
+				<area>0,0,0,20</area>
+				<font>white_tiny</font>
+				<cutdown>yes</cutdown>
+				<multiline>no</multiline>
+			</textarea>		
+		</container>
+	</window>
+
+	<window name="videotree"><!-- VIDEOS - list view -->
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+        
+		<container name="background"><!-- VIDEOS - list view -->
+			<area>0,10,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<!--
+			<image name="footer" draworder="0" fleximage="no">
+				<filename>background_footer_video.png</filename>
+				<position>0,480</position>
+			</image>
+			-->
+			<image name="panel" draworder="0" fleximage="no">
+				<filename>background_panel_wide.png</filename>
+				<position>0,110</position>
+			</image>
+			<image name="heading_icon" draworder="0" fleximage="no">
+				<filename>title/film.png</filename>
+				<position>1150,30</position>
+			</image>
+			<textarea name="title" draworder="0" align="right">
+				<area>650,45,496,100</area>
+				<font>white_huge</font>
+				<value>Videos</value>- List View
+			</textarea>
+			<textarea name="keys" draworder="0" align="left">
+				<area>30,66,500,30</area>
+				<font>gray_tiny</font>
+				<cutdown>yes</cutdown>
+				<value>[M] view options    [I] file options</value>
+			</textarea>
+		</container>
+                                              
+#########		<container name="videoselector">
+			<area>30,140,1220,430</area>
+			<managedtreelist name="videotreelist" draworder="4" bins="2">
+			<area>0,0,1220,330</area>
+				<image function="selectionbar" filename="selectbar.png" padding="5" location="-20,-3"></image>
+				<image function="uparrow" filename="small_arrow_up.png"></image>
+				<image function="downarrow" filename="small_arrow_down.png"></image>
+				<image function="leftarrow" filename="small_arrow_left.png"></image>
+				<image function="rightarrow" filename="small_arrow_right.png"></image>
+				<bin number="1">
+					<area>20,0,330,330</area>
+					<fcnfont name="white_medium" function="active"></fcnfont>
+					<fcnfont name="gray_medium" function="inactive"></fcnfont>
+					<fcnfont name="yellow_medium" function="selected"></fcnfont>
+					<fcnfont name="white_medium" function="selectable"></fcnfont>
+				</bin>
+				<bin number="2">
+					<area>370,-5,530,340</area>
+					<fcnfont name="white_medium" function="active"></fcnfont>
+					<fcnfont name="gray_medium" function="inactive"></fcnfont>
+					<fcnfont name="yellow_medium" function="selected"></fcnfont>
+					<fcnfont name="white_medium" function="selectable"></fcnfont>
+				</bin>
+			</managedtreelist>
+		</container>
+
+		<container name="videoinfo">
+			<area>30,100,1220,620</area>
+			<!--
+			<textarea name="player_label" draworder="4" align="left">
+				<area>0,64,100,30</area>
+				<font>green_small</font>
+				<value>Player:</value>
+			</textarea>
+			<textarea name="video_player" draworder="4">
+				<area>120,64,100,30</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="pl_label" draworder="4" align="right">
+				<area>300,64,160,30</area>
+				<font>green_small</font>
+				<value>Parental Level:</value>
+			</textarea>
+			<textarea name="pl_value" draworder="4" align="left">
+				<area>480,64,40,30</area>
+				<font>white_small</font>
+				<value>1</value>
+			</textarea>
+			<textarea name="lenlbl" draworder="4" align="right">
+				<area>600,64,100,30</area>
+				<font>green_small</font>
+				<value>min Runtime:</value>
+			</textarea>
+			-->
+			<textarea name="length" draworder="4" align="right">
+				<area>1005,425,150,30</area>
+				<font>white_tiny</font>
+			</textarea>
+			<textarea name="year" draworder="4" align="left">
+				<area>915,425,120,30</area>
+				<font>white_tiny</font>
+			</textarea>
+			<!--
+			<textarea name="video_title" draworder="4">
+				<area>0,100,880,30</area>
+				<multiline>no</multiline> 
+				<font>orange_big</font>
+			</textarea>
+			<textarea name="rating" draworder="4">
+				<area>0,130,880,26</area>
+				<font>yellow_small</font>
+				<multiline>yes</multiline>
+			</textarea>
+			-->		
+			<textarea name="plot" draworder="4">
+				<area>380,500,880,130</area>
+				<font>white_small</font>
+				<multiline>yes</multiline>
+			</textarea>
+			<image name="video_poster" draworder="1" fleximage="no">
+				<position>935,65</position>
+				<staticsize>200,300</staticsize>
+			</image>
+			<image name="video_poster_bg" draworder="0" fleximage="no">
+				<filename>video_poster_bg.png</filename>
+				<position>915,45</position>
+			</image>
+		</container>
+
+	</window>
+
+	<window name="selected">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_micro" face="Bitstream Vera Sans">
+			<color>#4c4c4c</color>
+			<dropcolor>#000000</dropcolor>
+			<size>14</size>
+			<size:big>16</size:big>
+			<size:small>12</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<!--
+			<image name="footer" draworder="0" fleximage="no">
+				<filename>background_footer.png</filename>
+				<position>0,540</position>
+			</image>
+			-->
+			<image name="panel" draworder="0" fleximage="no">
+				<filename>background_panel.png</filename>
+				<position>0,100</position>
+			</image>
+			<image name="heading_icon" draworder="0" fleximage="no">
+				<filename>title/film.png</filename>
+				<position>1150,30</position>
+			</image>
+			<textarea name="title" draworder="0" align="right">
+				<area>650,45,496,100</area>
+				<font>white_huge</font>
+				<value>Video Information</value>
+			</textarea>
+##########		<textarea name="keys" draworder="0" align="left">
+				<area>15,15,500,30</area>
+				<font>gray_micro</font>
+				<cutdown>yes</cutdown>
+				<value>[esc] return to Videos </value>
+			</textarea>
+		</container>
+
+		<container name="info">
+			<area>30,130,1280,450</area>
+			<textarea name="title" draworder="4" align="allcenter">
+				<area>400,0,800,70</area>
+				<font>orange_big</font>
+				<multiline>yes</multiline> 
+			</textarea>		
+			<textarea name="dirlbl" draworder="4" align="left">
+				<area>400,80,160,30</area>
+				<font>yellow_medium</font>
+				<value>Directed by:</value>
+			</textarea>
+			<textarea name="director" draworder="4">
+				<area>580,80,640,30</area>
+				<font>white_medium</font>
+			</textarea>		
+			<textarea name="plot" draworder="4">
+				<area>400,110,800,120</area>
+				<font>white_small</font>
+				<multiline>yes</multiline>
+			</textarea>
+			<textarea name="rating" draworder="4">
+				<area>400,230,800,100</area>
+				<font>yellow_small</font>
+				<multiline>yes</multiline>
+			</textarea>		
+			<textarea name="lenlbl" draworder="4" align="left">
+				<area>400,300,140,30</area>
+				<font>yellow_small</font>
+				<value>Runtime:</value>
+			</textarea>
+			<textarea name="length" draworder="4" align="left">
+				<area>560,300,660,30</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="yrlbl" draworder="4" align="left">
+				<area>400,330,140,30</area>
+				<font>yellow_small</font>
+				<value>Year:</value>
+			</textarea>
+			<textarea name="year" draworder="4" align="left">
+				<area>560,330,660,30</area>
+				<font>white_small</font>
+			</textarea>		
+			<textarea name="userratinglbl" draworder="4" align="left">
+				<area>400,360,140,30</area>
+				<font>yellow_small</font>
+				<value>User Rating:</value>
+			</textarea>
+			<textarea name="userrating" draworder="4" align="left">
+				<area>560,360,660,30</area>
+				<font>white_small</font>
+			</textarea>
+			<image name="coverart" draworder="5" fleximage="no">
+				<position>50,0</position>
+				<staticsize>250,375</staticsize>
+			</image>
+			<textarea name="pl_label" draworder="4" align="left">
+				<area>0,414,180,30</area>
+				<font>green_small</font>
+				<value>Parental Level: </value>
+			</textarea>
+			<textarea name="pl_value" draworder="4" align="left">
+				<area>200,414,40,30</area>
+				<font>white_small</font>
+				<value>1</value>
+			</textarea>
+		</container>
+
+		<container name="playwait">
+			<area>420,130,830,390</area>
+			<textarea name="ld1" draworder="0" align="allcenter">
+				<area>0,150,830,30</area>
+				<font>orange_big</font>
+				<value>loading...</value>
+			</textarea>
+			<textarea name="title" draworder="0" align="allcenter">
+				<area>0,200,830,120</area>
+				<font>white_big</font>
+			</textarea>
+		</container>
+
+	</window>
+
+	<window name="file_associations">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<image name="footer" draworder="0" fleximage="no">
+				<filename>background_footer.png</filename>
+				<position>0,540</position>
+			</image>
+			<image name="panel" draworder="0" fleximage="no">
+				<filename>background_panel.png</filename>
+				<position>0,100</position>
+			</image>
+			<image name="heading_icon" draworder="0" fleximage="no">
+				<filename>title/numbers.png</filename>
+				<position>1150,30</position>
+			</image>
+			<textarea name="title" draworder="0" align="right">
+				<area>650,45,496,100</area>
+				<font>white_huge</font>
+				<value>Videos - File Types</value>
+			</textarea>
+		</container>
+        
+		<container name="associations">
+		<area>30,130,1220,560</area>
+			<textarea name="extension_text" draworder="0" align="right">
+				<area>0,0,350,30</area>
+				<font>green_small</font>
+				<value>Extension:</value>
+			</textarea>
+			<selector name="extension_select" draworder="0">
+				<area>410,0,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="command_text" draworder="0" align="right">
+				<area>0,36,350,30</area>
+				<font>green_small</font>
+				<value>Command:</value>
+			</textarea>
+			<remoteedit name="command" draworder="0">
+				<area>410,36,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<textarea name="default_text" draworder="0" align="right">
+				<area>0,72,350,30</area>
+				<font>green_small</font>
+				<value>Use default player:</value>
+			</textarea>
+			<checkbox name="default_check" draworder="0">
+				<position>410,72</position>
+				<image function="checked" filename="checked.png"></image>
+				<image function="unchecked" filename="unchecked.png"></image>
+				<image function="checked_high" filename="checked_high.png"></image>
+				<image function="unchecked_high" filename="unchecked_high.png"></image>
+			</checkbox>
+			<textarea name="ignore_text" draworder="0" align="right">
+				<area>0,108,350,30</area>
+				<font>green_small</font>
+				<value>Ignore:</value>
+			</textarea>
+			<checkbox name="ignore_check" draworder="0">
+				<position>410,108</position>
+				<image function="checked" filename="checked.png"></image>
+				<image function="unchecked" filename="unchecked.png"></image>
+				<image function="checked_high" filename="checked_high.png"></image>
+				<image function="unchecked_high" filename="unchecked_high.png"></image>
+			</checkbox>
+			<textbutton name="new_button" draworder="0">
+				<position>260,520</position>
+				<font>white_small</font>
+				<image function="on" filename="button_on.png"></image>
+				<image function="off" filename="button_off.png"></image>
+				<image function="pushed" filename="button_down.png"></image>
+			</textbutton>
+			<textbutton name="delete_button" draworder="0">
+				<position>510,520</position>
+				<font>white_small</font>
+				<image function="on" filename="button_on.png"></image>
+				<image function="off" filename="button_off.png"></image>
+				<image function="pushed" filename="button_down.png"></image>
+			</textbutton>
+			<textbutton name="done_button" draworder="0">
+				<position>760,520</position>
+				<font>white_small</font>
+				<image function="on" filename="button_on.png"></image>
+				<image function="off" filename="button_off.png"></image>
+				<image function="pushed" filename="button_down.png"></image>
+			</textbutton>
+		</container>    
+
+	</window>
+
+	<window name="manager"> <!-- Video Manager ? -->
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<!--
+			<image name="footer" draworder="0" fleximage="no">
+				<filename>background_footer_tall.png</filename>
+				<position>0,480</position>
+			</image>
+			
+			<image name="panel" draworder="0" fleximage="no">
+				<filename>background_panel_short.png</filename>
+				<position>0,100</position>
+			</image>
+			-->
+			<image name="heading_icon" draworder="0" fleximage="no">
+				<filename>title/video.png</filename>
+				<position>1150,30</position>
+			</image>
+######			<textarea name="title" draworder="0" align="right">
+				<area>650,45,496,100</area>
+				<font>white_huge</font>
+				<value>Video Manager</value>
+			</textarea>
+			<textarea name="keyslbl_one" draworder="0" align="left">
+				<area>30,66,240,30</area>
+				<font>gray_tiny</font>
+				<value>[M] view options</value>
+			</textarea>
+			<textarea name="keyslbl_three" draworder="0" align="left">
+				<area>260,66,340,30</area>
+				<font>gray_tiny</font>
+				<value>[I] file options</value>        
+			</textarea>
+			<image name="heading_bg" draworder="0" fleximage="no">
+				<filename>program_desciprion_heading_bg.png</filename>
+				<position>0,100</position>
+			</image>
+			<image name="footing_bg" draworder="0" fleximage="no">
+				<filename>program_desciprion_footing_bg.png</filename>
+				<position>0,470</position>
+			</image>
+			<textarea name="titlelabel" draworder="0" align="left">
+				<area>50,100,670,30</area>
+				<font>orange_medium</font>
+				<value>Title</value>
+			</textarea>
+			<textarea name="directorlabel" draworder="0" align="left">
+				<area>760,100,290,30</area>
+				<font>orange_medium</font>
+				<value>Director</value>
+			</textarea>
+			<textarea name="yearlabel" draworder="0" align="left">
+				<area>1090,100,100,30</area>
+				<font>orange_medium</font>
+				<value>Year</value>
+			</textarea>
+		</container>
+
+		<container name="selector">
+			<area>30,150,1220,310</area>
+			<listarea name="listing" draworder="4">
+				<area>20,0,1200,310</area>
+				<fcnfont name="white_small" function="active"></fcnfont>
+				<fcnfont name="gray_small" function="inactive"></fcnfont>
+				<fcnfont name="yellow_small" function="selected"></fcnfont>
+###				<columnpadding>40</columnpadding>
+				<column number="1" width="670" context="-1"></column>
+				<column number="2" width="290" context="-1"></column>
+				<column number="3" width="100" context="-1"></column>
+				<items>8</items>
+				<image function="selectionbar" filename="selectbar1160.png" location="-20,-6"></image>
+				<image function="uparrow" filename="menu_arrow_up.png" location="1160,0"></image>
+				<image function="downarrow" filename="menu_arrow_down.png" location="1160,273"></image>
+			</listarea>
+		</container>
+
+		<container name="info">
+			<area>30,480,1220,210</area>
+			<textarea name="lvllbl" draworder="4" align="left">
+				<area>0,4,180,30</area>
+				<font>green_small</font>
+				<value>Parental Level:</value>
+			</textarea>
+			<textarea name="level" draworder="4" align="left">
+				<area>200,4,40,30</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="browselbl" draworder="4" align="right">
+				<area>400,4,140,30</area>
+				<font>green_small</font>
+				<value>Browsable:</value>
+			</textarea>
+			<textarea name="browseable" draworder="4" align="left">
+				<area>560,4,50,30</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="imdblbl" draworder="4" align="right">
+				<area>900,4,140,30</area>
+				<font>green_small</font>
+				<value>Video Num.:</value>
+			</textarea>
+			<textarea name="inetref" draworder="4" align="right">
+				<area>1040,4,180,30</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="title" draworder="4" align="left">
+				<area>0,40,960,30</area>
+				<font>orange_big</font>
+			</textarea>
+			<!--
+			<textarea name="lenlbl" draworder="4" align="right">
+				<area>840,40,140,30</area>
+				<font>orange_big</font>
+				<value>Length:</value>
+			</textarea>
+			-->
+			<textarea name="length" draworder="4" align="right">
+				<area>1000,40,220,30</area>
+				<font>orange_big</font>
+			</textarea>
+			<textarea name="dirlbl" draworder="4" align="left">
+				<area>0,70,120,26</area>
+				<font>yellow_small</font>
+				<value>Director:</value>
+			</textarea>
+			<textarea name="director" draworder="4" align="left">
+				<area>140,70,820,26</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="yrlbl" draworder="4" align="right">
+				<area>1000,70,100,26</area>
+				<font>yellow_small</font>
+				<value>Year:</value>
+			</textarea>
+			<textarea name="year" draworder="4" align="right">
+				<area>1120,70,100,26</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="rating_label" draworder="4" align="left">
+				<area>0,96,120,26</area>
+				<font>yellow_small</font>
+				<value>Rating:</value>
+			</textarea>
+			<textarea name="rating" draworder="4" align="left">
+				<area>140,96,1080,26</area>
+				<font>white_small</font>
+			</textarea>
+			<textarea name="pltlbl" draworder="4" align="left">
+				<area>0,122,120,26</area>
+				<font>yellow_small</font>
+				<value>Plot:</value>
+			</textarea>
+			<textarea name="plot" draworder="4" align="left">
+				<area>140,122,1080,26</area>
+				<font>white_small</font>
+				<multiline>no</multiline>
+			</textarea>
+			<textarea name="fillbl" draworder="4" align="left">
+				<area>0,158,120,26</area>
+				<font>yellow_small</font>
+				<value>Filename:</value>
+			</textarea>
+			<textarea name="filename" draworder="4" align="left">
+				<area>140,158,1080,26</area>
+				<font>gray_small</font>
+			</textarea>
+			<textarea name="cvflbl" draworder="4" align="left">
+				<area>0,184,120,26</area>
+				<font>yellow_small</font>
+				<value>Cover File:</value>
+			</textarea>
+			<textarea name="coverfile" draworder="4" align="left">
+				<area>140,184,1080,26</area>
+				<font>gray_small</font>
+			</textarea>
+		</container>
+
+		<container name="inetwait">
+			<area>0,0,1280,720</area>
+			<context>1</context>
+			<textarea name="ld1" draworder="0" align="center">
+				<area>30,180,1220,60</area>
+				<font>white_huge</font>
+				<value>retrieving data...</value>
+			</textarea>
+			<textarea name="finder" draworder="0" align="center">
+				<area>30,250,1220,60</area>
+				<font>white_big</font>
+				<value>[ looking for ]</value>
+			</textarea>
+			<textarea name="title" draworder="0" align="center">
+				<area>30,300,1220,90</area>
+				<font>white_huge</font>
+			</textarea>
+		</container>
+
+		<container name="moviesel">
+			<area>310,200,600,200</area>
+			<context>2</context>
+			<listarea name="listing" draworder="4">
+				<area>60,40,480,120</area>
+				<fcnfont name="white_small" function="active"></fcnfont>
+				<fcnfont name="gray_small" function="inactive"></fcnfont>
+				<fcnfont name="yellow_small" function="selected"></fcnfont>
+				<columnpadding>10</columnpadding>
+				<column number="1" width="560" context="-1"></column>
+				<items>3</items>
+				<image function="selectionbar" filename="selectbar_popup.png" location="-20,-6"></image>
+				<image function="uparrow" filename="small_arrow_up.png" location="560,0"></image>
+				<image function="downarrow" filename="small_arrow_down.png" location="560,89"></image>
+			</listarea>
+			<image name="showinglines" draworder="3" fleximage="no">
+				<filename>popup_1.png</filename> <!-- 602x200 -->
+				<position>0,0</position>
+			</image>
+		</container>
+
+		<container name="enterimdb">
+			<area>310,200,600,200</area>
+			<context>3</context>
+			<image name="box" draworder="7">
+				<filename>popup_1.png</filename> <!-- 600x200 -->
+				<position>0,0</position>
+			</image>
+			<textarea name="msg" draworder="7" align="left">
+				<font>white_medium</font>
+				<value>Enter IMDB #:</value>
+				<area>60,40,480,30</area>
+			</textarea>
+			<remoteedit name="numhold" draworder="7" align="center">
+				<font>orange_big</font>
+				<area>60,90,480,40</area>
+			</remoteedit>
+		</container>
+<!-- optional. need testing
+		<container name="entersearchtitle">
+			<area>200,200,400,170</area>
+			<image name="box" draworder="7">
+				<filename>mv-search-popup.png</filename>
+				<position>0,0</position>
+			</image>
+			<textarea name="msg" draworder="7" align="center">
+				<font>directorfnt</font>
+				<value>Enter Video Title</value>
+				<area>14,36,362,25</area>
+			</textarea>
+			<textarea name="title" draworder="7" align="center">
+				<area>14,72,360,50</area>
+				<font>titlefnt</font>
+			</textarea>
+		</container>
+-->
+<!--		I don't think this is used anymore
+		<container name="playwait">
+			<area>420,130,830,390</area>
+			<textarea name="ld1" draworder="0" align="allcenter">
+				<area>0,150,830,30</area>
+				<font>orange_big</font>
+				<value>loading...</value>
+			</textarea>
+			<textarea name="title" draworder="0" align="allcenter">
+				<area>0,200,830,120</area>
+				<font>white_big</font>
+			</textarea>
+		</container>
+-->
+
+		<container name="novideos_info">
+			<textarea name="msg" align="allcenter" draworder="8">
+				<area>400,130,850,260</area>
+				<font>orange_medium</font>
+				<value>No Videos Found</value>
+				<multiline>yes</multiline> 
+			</textarea>
+		</container>
+
+	</window>
+
+	<window name="edit_metadata">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<image name="footer" draworder="0" fleximage="no">
+				<filename>background_footer.png</filename>
+				<position>0,540</position>
+			</image>
+			<image name="panel" draworder="0" fleximage="no">
+				<filename>background_panel.png</filename>
+				<position>0,100</position>
+			</image>
+			<image name="heading_icon" draworder="0" fleximage="no">
+				<filename>title/video.png</filename>
+				<position>1150,30</position>
+			</image>
+			<!-- Calling this element "title" causes conflict with a remoteedit element by the same name so we call it "bg_title" here -->
+			<textarea name="bg_title" draworder="0" align="right">
+				<area>650,52,496,100</area>
+				<font>white_huge</font>
+				<value>Edit Video Information</value>
+			</textarea>
+		</container>
+
+		<container name="editing_container">
+			<area>30,130,1220,560</area>
+			<textarea name="title_text" draworder="0" align="right">
+				<area>0,0,350,30</area>
+				<font>green_small</font>
+				<value>Name:</value>
+			</textarea>
+			<remoteedit name="title" draworder="0">
+				<area>410,0,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<textarea name="category_text" draworder="0" align="right">
+				<area>0,36,350,30</area>
+				<font>green_small</font>
+				<value>Category:</value>
+			</textarea>
+			<selector name="category_select" draworder="0">
+				<area>410,36,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="level_text" draworder="0" align="right">
+				<area>0,72,350,30</area>
+				<font>green_small</font>
+				<value>Parental Control:</value>
+			</textarea>
+			<selector name="level_select" draworder="0">
+				<area>410,72,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="child_toggle_text" draworder="0" align="right">
+				<area>0,108,350,30</area>
+				<font>green_small</font>
+				<value>Play File After This:</value>
+			</textarea>
+			<checkbox name="child_check" draworder="0">
+				<position>410,108</position>
+				<image function="checked" filename="checked.png"></image>
+				<image function="unchecked" filename="unchecked.png"></image>
+				<image function="checked_high" filename="checked_high.png"></image>
+				<image function="unchecked_high" filename="unchecked_high.png"></image>
+			</checkbox>
+			<textarea name="child_text" draworder="0" align="right">
+				<area>0,144,350,30</area>
+				<font>green_small</font>
+				<value>File to Always Play Next:</value>
+			</textarea>
+			<selector name="child_select" draworder="0">
+				<area>410,144,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="browse_text" draworder="0" align="right">
+				<area>0,180,350,30</area>
+				<font>green_small</font>
+				<value>Include while Browsing:</value>
+			</textarea>
+			<checkbox name="browse_check" draworder="0">
+				<position>410,180</position>
+				<image function="checked" filename="checked.png"></image>
+				<image function="unchecked" filename="unchecked.png"></image>
+				<image function="checked_high" filename="checked_high.png"></image>
+				<image function="unchecked_high" filename="unchecked_high.png"></image>
+			</checkbox> 
+			<textarea name="coverart_text_label" draworder="0" align="right">
+				<area>0,216,350,30</area>
+				<font>green_small</font>
+				<value>Cover Art:</value>
+			</textarea>
+			<pushbutton name="coverart_button" draworder="0">
+				<position>410,216</position>
+				<image function="on" filename="blankbutton_on.png"></image>
+				<image function="off" filename="blankbutton_off.png"></image>
+				<image function="pushed" filename="blankbutton_pushed.png"></image>
+			</pushbutton>
+			<textarea name="coverart_text" draworder="0" align="left">
+				<area>450,216,660,30</area>
+				<font>white_small</font>
+				<value>/path/to/the/thing.jpg</value>
+			</textarea>
+			<textarea name="player_text" draworder="0" align="right">
+				<area>0,252,350,30</area>
+				<font>green_small</font>
+				<value>Unique Player Command:</value>
+			</textarea>
+			<remoteedit name="player" draworder="0">
+				<area>410,252,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<textbutton name="done_button" draworder="0">
+				<position>1020,520</position>
+				<font>white_small</font>
+				<image function="on" filename="button_on.png"></image>
+				<image function="off" filename="button_off.png"></image>
+				<image function="pushed" filename="button_down.png"></image>
+			</textbutton>
+		</container>
+
+	</window>
+
+	<!--
+	NB: 	You don't want to mess with this very much.
+		There *must* be a container called background.
+		It *must* have an image called file_browser_background.
+		And there has to be a managedtreelist called file_browser.
+	-->
+	<window name="file_chooser">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<image name="file_browser_background" draworder="0" fleximage="no">
+				<filename>popup_2.png</filename>
+				<position>0,0</position>
+			</image>
+		</container>
+        
+		<container name="chooser_area">
+			<area>0,0,800,267</area>
+			<image name="image_box" draworder="1" fleximage="no">
+				<position>40,30</position>
+				<staticsize>160,200</staticsize>
+			</image>
+			<managedtreelist name="file_browser" draworder="1" bins="2">
+				<area>260,10,520,247</area>
+				<image function="selectionbar" filename="selectbar.png" padding="4" location="-10,0"></image>
+				<image function="uparrow" filename="small_arrow_up.png"></image>
+				<image function="downarrow" filename="small_arrow_down.png"></image>
+				<image function="leftarrow" filename="small_arrow_left.png"></image>
+				<image function="rightarrow" filename="small_arrow_right.png"></image>
+				<bin number="1">
+					<area>260,10,200,247</area>
+					<fcnfont name="white_small" function="active"></fcnfont>
+					<fcnfont name="gray_small" function="inactive"></fcnfont>
+					<fcnfont name="yellow_small" function="selected"></fcnfont>
+					<fcnfont name="white_small" function="selectable"></fcnfont>
+				</bin>
+				<bin number="2">
+					<area>500,10,280,247</area>
+					<fcnfont name="white_small" function="active"></fcnfont>
+					<fcnfont name="gray_small" function="inactive"></fcnfont>
+					<fcnfont name="yellow_small" function="selected"></fcnfont>
+					<fcnfont name="white_small" function="selectable"></fcnfont>
+				</bin>
+			</managedtreelist>
+		</container>
+
+	</window>
+
+	<window name="filter">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>26</size>
+			<size:big>28</size:big>
+			<size:small>24</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="orange_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#F5E289</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<image name="footer" draworder="0" fleximage="no">
+				<filename>background_footer.png</filename>
+				<position>0,540</position>
+			</image>
+			<image name="panel" draworder="0" fleximage="no">
+				<filename>background_panel.png</filename>
+				<position>0,100</position>
+			</image>
+			<image name="heading_icon" draworder="0" fleximage="no">
+				<filename>title/video.png</filename>
+				<position>1150,30</position>
+			</image>
+			<textarea name="title" draworder="0" align="right">
+				<area>650,52,496,100</area>
+				<font>white_huge</font>
+				<value>Video Filter</value>
+			</textarea>
+		</container>
+
+		<container name="filter_container">
+			<area>30,130,1220,560</area>
+			<!-- Labels -->
+			<textarea name="category_text" draworder="0" align="right">
+				<area>0,0,350,30</area>
+				<font>green_small</font>
+				<value>Category :</value>
+			</textarea>
+			<selector name="category_select" draworder="0">
+				<area>410,0,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="genre_text" draworder="0" align="right">
+				<area>0,36,350,30</area>
+				<font>green_small</font>
+				<value>Genre :</value>
+			</textarea>
+			<selector name="genre_select" draworder="0">
+				<area>410,36,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="country_text" draworder="0" align="right">
+				<area>0,72,350,30</area>
+				<font>green_small</font>
+				<value>Country :</value>
+			</textarea>
+			<selector name="country_select" draworder="0">
+				<area>410,72,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="cast_text" draworder="0" align="right"> 
+				<area>0,108,350,30</area> 
+				<font>green_small</font> 
+				<value>Actor/Actress :</value> 
+			</textarea> 
+			<selector name="cast_select" draworder="0"> 
+				<area>410,108,700,30</area> 
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector> 
+			<textarea name="year_text" draworder="0" align="right">
+				<area>0,144,350,30</area>
+				<font>green_small</font>
+				<value>Year :</value>
+			</textarea>
+			<selector name="year_select" draworder="0">
+				<area>410,144,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="runtime_text" draworder="0" align="right">
+				<area>0,180,350,30</area>
+				<font>green_small</font>
+				<value>Runtime :</value>
+			</textarea>
+			<selector name="runtime_select" draworder="0">
+				<area>410,180,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="userrating_text" draworder="0" align="right">
+				<area>0,216,350,30</area>
+				<font>green_small</font>
+				<value>User Rating :</value>
+			</textarea>
+			<selector name="userrating_select" draworder="0">
+				<area>410,216,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="browse_text" draworder="0" align="right">
+				<area>0,252,350,30</area>
+				<font>green_small</font>
+				<value>Browse :</value>
+			</textarea>
+			<selector name="browse_select" draworder="0">
+				<area>410,252,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="inetref_text" draworder="0" align="right">
+				<area>0,288,350,30</area>
+				<font>green_small</font>
+				<value>InetRef :</value>
+			</textarea>
+			<selector name="inetref_select" draworder="0">
+				<area>410,288,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="coverfile_text" draworder="0" align="right">
+				<area>0,324,350,30</area>
+				<font>green_small</font>
+				<value>Cover File :</value>
+			</textarea>
+			<selector name="coverfile_select" draworder="0">
+				<area>410,324,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>
+			<textarea name="orderby_text" draworder="0" align="right">
+				<area>0,360,350,30</area>
+				<font>green_small</font>
+				<value>Sort by :</value>
+			</textarea>
+			<selector name="orderby_select" draworder="0">
+				<area>410,360,700,30</area>
+				<font>white_small</font>
+				<image function="on" filename="leftright_on.png"></image>
+				<image function="off" filename="leftright_off.png"></image>
+				<image function="pushed" filename="leftright_pushed.png"></image>
+			</selector>			
+			<textarea name="numvideos_text" draworder="0" align="center">
+				<area>0,412,1152,30</area>
+				<font>white_small</font>
+				<value>Result</value>
+			</textarea>
+			
+			<textbutton name="done_button" draworder="0">
+				<position>1020,520</position>
+				<font>white_small</font>
+				<image function="on" filename="button_on.png"></image>
+				<image function="off" filename="button_off.png"></image>
+				<image function="pushed" filename="button_down.png"></image>
+			</textbutton>
+			
+			<textbutton name="save_button" draworder="0">
+				<position>30,520</position>
+				<font>white_small</font>
+				<image function="on" filename="button_on.png"></image>
+				<image function="off" filename="button_off.png"></image>
+				<image function="pushed" filename="button_down.png"></image>
+			</textbutton>
+		</container>
+
+	</window>
+
+</mythuitheme>

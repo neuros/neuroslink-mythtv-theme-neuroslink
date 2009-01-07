@@ -1,0 +1,57 @@
+<mythuitheme>
+
+  <window name="backgroundwindow">
+    <imagetype name="backimg">
+      <filename>background.png</filename>
+    </imagetype>
+
+
+    <imagetype name="header">
+			<filename>bg_header.png</filename>
+			<position>0,0</position>
+    </imagetype>
+
+    <font name="clock"  base="medium">
+         <color>#666666</color>
+         <size>18</size>
+         <size:small>18</size:small>
+         <size:big>22</size:big>
+         <bold>no</bold>
+    </font>
+
+    <font name="small" base="medium">
+      <color>#FFFFFF</color>
+      <size>14</size>
+      <size:small>12</size:small>
+      <size:big>16</size:big>
+      <bold>yes</bold>
+    </font>
+
+    <font name="medium" base="medium">
+      <color>#FFFFFF</color>
+      <size>16</size>
+      <size:small>14</size:small>
+      <size:big>20</size:big>
+      <bold>yes</bold>
+    </font>
+
+    <font name="large" base="medium">
+      <color>#FFFFFF</color>
+      <size>20</size>
+      <size:small>18</size:small>
+      <size:big>22</size:big>
+      <bold>yes</bold>
+    </font>
+
+    <clock name="clock">
+         <color>#666666</color>
+         <area>885,650,300,40</area>
+         <font>clock</font>
+         <align>right</align>
+         <format>%DATE%, %TIME%</format>
+    </clock>
+
+  </window>
+
+</mythuitheme>
+

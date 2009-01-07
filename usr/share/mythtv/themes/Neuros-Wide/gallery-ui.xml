@@ -1,0 +1,118 @@
+<mythuitheme>
+
+  <window name="gallery">
+
+    <font name="active" face="Bitstream Vera Sans">
+      <color>#ffffff</color>
+      <size>16</size>
+      <bold>yes</bold>
+    </font>
+
+    <font name="inactive" face="Bitstream Vera Sans">
+      <color>#909090</color>
+      <size>16</size>
+      <bold>yes</bold>
+    </font>
+
+  <font name="title" face="Bitstream Vera Sans">
+      <color>#c0c0c0</color>
+      <dropcolor>#000000</dropcolor>
+      <shadow>4,4</shadow>
+      <size:small>20</size:small>
+      <size>26</size>
+      <bold>yes</bold>
+    </font>
+  <font name="menu" face="Bitstream Vera Sans">
+      <color>#808080</color>
+      <size>18</size>
+      <bold>no</bold>
+      <shadow>2,2</shadow>
+    </font>    
+    
+    <container name="menu">
+      <area>20,20,300,700</area>
+
+      <listbtnarea name="menu" draworder="0">
+        <area>20,100,300,270</area>
+        <gradient type="unselected" start="#606060" end="#404040" alpha="100">
+        </gradient>
+        <gradient type="selected" start="#a0a0a0" end="#909090" alpha="255">
+        </gradient>
+        <fcnfont name="active" function="active"></fcnfont>
+        <fcnfont name="inactive" function="inactive"></fcnfont>
+        <showarrow>no</showarrow>
+        <showscrollarrows>no</showscrollarrows>
+      </listbtnarea>
+
+      <listbtnarea name="submenu" draworder="0">
+        <area>20,370,300,300</area>
+        <gradient type="unselected" start="#606060" end="#404040" alpha="100">
+        </gradient>
+        <gradient type="selected" start="#a0a0a0" end="#909090" alpha="255">
+        </gradient>
+        <fcnfont name="active" function="active"></fcnfont>
+        <fcnfont name="inactive" function="inactive"></fcnfont>
+        <showarrow>no</showarrow>
+        <showscrollarrows>no</showscrollarrows>
+      </listbtnarea>
+
+    </container>
+
+    <container name="text">
+
+      <area>110,20,1070,60</area>
+      <textarea name="text" draworder="0">
+        <area>0,0,1200,60</area>
+        <font>title</font>
+        <multiline>no</multiline>
+      </textarea>
+
+    </container>
+
+      <container name="view">
+      <area>330,65,920,620</area>
+
+      <blackhole name="view" draworder="0">
+            <area>0,0,1240,610</area>
+      </blackhole>
+      <image name="scrollUpReg" draworder="0" fleximage="no">
+        <context>0</context>
+        <filename>shared/uparrow.png</filename>
+        <position>950,490</position>
+      </image>
+      
+      <textarea name="help1" draworder="1">
+        <area>10,590,230,40</area>
+        <font>menu</font>
+        <value>[M] view options</value>
+      </textarea>
+
+      <textarea name="help2" draworder="1">
+        <area>250,590,325,40</area>
+        <font>menu</font>
+        <value>[I] file options</value>
+      </textarea>
+      
+      <image name="scrollUpSel" draworder="0" fleximage="no">
+        <context>1</context>
+        <filename>shared/uparrow.png</filename>
+        <position>950,490</position>
+      </image>
+
+      <image name="scrollDnReg" draworder="1" fleximage="no">
+        <context>0</context>
+        <filename>shared/downarrow.png</filename>
+        <position>950,520</position>
+      </image>
+
+      <image name="scrollDnSel" draworder="1" fleximage="no">
+        <context>1</context>
+        <filename>shared/downarrow.png</filename>
+        <position>950,520</position>
+      </image>
+
+    </container>
+
+  </window>
+ 
+</mythuitheme>

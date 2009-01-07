@@ -1,0 +1,14 @@
+Source: mythtv-theme-neuroslink
+Section: x11
+Priority: optional
+Maintainer: Tom Bruno <tbruno@neurostechnology.com>
+Build-Depends: debhelper (>= 5.0.0), cdbs
+Standards-Version: 3.7.2
+
+Package: mythtv-theme-neuroslink
+Architecture: all 
+Depends: mythtv-frontend, mythtv-theme-projectgrayhem, mythtv-theme-projectgrayhem-wide
+Description: default MythTV theme used in Neuros Link
+ This package provides the default theme that is
+ used for a Neuros TVPC (Link) installation and basedon mythtv-theme-mythbuntu.
+ .

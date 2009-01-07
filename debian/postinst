@@ -1,0 +1,19 @@
+#!/bin/sh
+
+. /usr/share/debconf/confmodule
+
+set -e
+
+case "$1" in
+  configure)
+#	if dpkg --compare-versions "${2}" le-nl "0.20080412"
+#	then
+#		ln -s /usr/share/mythtv/themes/Neuros-Wide /usr/share/mythtv/themes/Mythbuntu
+#	fi
+  ;;
+esac
+
+
+#DEBHELPER#
+
+exit 0

@@ -1,0 +1,1581 @@
+<mythuitheme>
+
+	<!-- music selection screen -->
+	<window name="music_select">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>34</size>
+			<size:big>36</size:big>
+			<size:small>32</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_big" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_medium" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_small" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_tiny" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<!-- for whatever reson the inactive font has to be named "inactive" or editing playlist crashes mythfrontend-->
+		<font name="inactive" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+                        <image name="footer" draworder="0" fleximage="no">
+                                <filename>divline.png</filename>
+                                <position>0,553</position>
+                        </image>
+			<textarea name="title" draworder="0" align="right">
+				<area>650,50,496,100</area>
+				<font>white_huge</font>
+				<value>Edit Playlist</value>
+			</textarea>
+		</container>
+
+		<container name="musictree">
+			<area>40,110,1200,440</area>
+			<listtreearea name="musictree" draworder="1">
+				<area>0,0,1150,440</area>
+				<listsize>0,0,350,440</listsize>
+				<leveloffset>60</leveloffset>
+				<gradient type="unselected" start="#555555" end="#888888" alpha="100"></gradient>
+				<gradient type="selected" start="#00AAAA" end="#005555" alpha="255"></gradient>
+				<fcnfont name="white_small" function="active"></fcnfont>
+				<fcnfont name="gray_small" function="inactive"></fcnfont>
+			</listtreearea>
+		</container>
+
+		<container name="info">
+			<area>40,560,1200,110</area>
+			<textarea name="line1" draworder="1" align="left">
+				<font>cyan_big</font>
+				<area>0,0,600,30</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+			<textarea name="line2" draworder="1" align="left">
+				<font>yellow_small</font>
+				<area>0,30,600,30</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+			<textarea name="line3" draworder="1" align="left">
+				<font>white_small</font>
+				<area>0,60,700,30</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+			<textarea name="line4" draworder="1" align="right">
+				<font>cyan_big</font>
+				<area>620,0,560,35</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+			<textarea name="line5" draworder="1" align="right">
+				<font>yellow_small</font>
+				<area>620,35,560,30</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+			<textarea name="line6" draworder="1" align="right">
+				<font>white_small</font>
+				<area>620,60,560,30</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+		</container>
+
+	</window>
+
+	<!-- The play music screen -->
+	<window name="music_play">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>34</size>
+			<size:big>36</size:big>
+			<size:small>32</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_big" face="Bitstream Vera Sans">
+			<color>#00FFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_medium" face="Bitstream Vera Sans">
+			<color>#00FFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_small" face="Bitstream Vera Sans">
+			<color>#00FFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+                        <image name="panel" draworder="0" fleximage="no">
+                                <filename>music/mm_outline.png</filename>
+                                <position>0,96</position>
+                        </image>
+                        <image name="panel" draworder="0" fleximage="no">
+                                <filename>divline.png</filename>
+                                <position>0,553</position>
+                        </image>
+
+                        <image name="panel" draworder="0" fleximage="no">
+                                <filename>divline.png</filename>
+                                <position>400,440</position>
+                        </image>
+
+			<textarea name="title" draworder="0" align="right">
+				<area>650,50,496,100</area>
+				<font>white_huge</font>
+				<value>My Music</value>
+			</textarea>
+			<image name="blackhole_border" draworder="0" fleximage="no">
+				<filename>music/blackhole_border.png</filename>
+				<position>100,380</position>
+			</image>
+
+			<blackhole name="visual_blackhole">
+				<area>103,383,194,144</area>
+			</blackhole>
+		</container>
+
+		<!-- On screen volume display -->
+		<container name="volumedisplay">
+			<area>200,30,200,60</area>
+			<statusbar name="volume_status" draworder="-1" whitespace="0">
+				<container fleximage="no">music/volume_background.png</container>
+				<fill>music/volume_tick.png</fill>
+				<position>0,0</position>
+				<orientation>LeftToRight</orientation>
+			</statusbar>
+		</container>
+
+		<!-- The view of playlists -->
+		<container name="musicselector">
+			<area>40,100,1200,330</area>
+			<managedtreelist name="musictreelist" draworder="1" bins="2">
+				<!-- regular area, but is only used if the user has ShowWholeTree set to false. -->
+			        <area>400,0,800,330</area>
+                              <!--  <area>35,0,1235,300</area> -->
+				<image function="selectionbar" filename="music/selectbar.png" location="-20,0"></image>
+				<image function="uparrow" filename="shared/uparrow.png" location="0,0"></image>
+				<image function="downarrow" filename="shared/downarrow.png" location="0,0"></image>
+				<image function="leftarrow" filename="shared/leftarrow.png" location="5,0"></image>
+				<image function="rightarrow" filename="shared/rightarrow.png" location="5,0"></image>
+				<bin number="1">
+					<area>0,0,350,230</area>
+					<fcnfont name="white_medium" function="active"></fcnfont>
+					<fcnfont name="gray_medium" function="inactive"></fcnfont>
+					<fcnfont name="yellow_medium" function="selected"></fcnfont>
+				</bin>
+				<bin number="2">
+					<area>390,0,800,330</area>
+					<fcnfont name="white_medium" function="active"></fcnfont>
+					<fcnfont name="gray_medium" function="inactive"></fcnfont>
+					<fcnfont name="yellow_medium" function="selected"></fcnfont>
+				</bin>
+			</managedtreelist>
+
+			<textarea name="waiting_text" draworder="1" align="center">
+				<context>0</context>
+				<font>cyan_big</font>
+				<area>370,160,850,30</area>
+				<value>Please Wait ...</value>
+			</textarea>
+
+		</container>
+
+		<!-- All the buttons -->
+		<container name="musicbuttons">
+			<area>20,450,1220,100</area>
+			<pushbutton name="prev_button" draworder="2">
+				<position>500,5</position>
+				<image function="on" filename="music/prev_on.png"></image>
+				<image function="off" filename="music/prev_off.png"></image>
+				<image function="pushed" filename="music/prev_down.png"></image>
+			</pushbutton>
+			<pushbutton name="rew_button" draworder="2">
+				<position>600,5</position>
+				<image function="on" filename="music/rew_on.png"></image>
+				<image function="off" filename="music/rew_off.png"></image>
+				<image function="pushed" filename="music/rew_down.png"></image>
+			</pushbutton>
+			<pushbutton name="pause_button" draworder="2">
+				<position>700,5</position>
+				<image function="on" filename="music/pause_on.png"></image>
+				<image function="off" filename="music/pause_off.png"></image>
+				<image function="pushed" filename="music/pause_down.png"></image>
+			</pushbutton>
+			<pushbutton name="play_button" draworder="2">
+				<position>800,5</position>
+				<image function="on" filename="music/play_on.png"></image>
+				<image function="off" filename="music/play_off.png"></image>
+				<image function="pushed" filename="music/play_down.png"></image>
+			</pushbutton>
+			<pushbutton name="stop_button" draworder="2">
+				<position>900,5</position>
+				<image function="on" filename="music/stop_on.png"></image>
+				<image function="off" filename="music/stop_off.png"></image>
+				<image function="pushed" filename="music/stop_down.png"></image>
+			</pushbutton>
+			<pushbutton name="ff_button" draworder="2">
+				<position>1000,5</position>
+				<image function="on" filename="music/ff_on.png"></image>
+				<image function="off" filename="music/ff_off.png"></image>
+				<image function="pushed" filename="music/ff_down.png"></image>
+			</pushbutton>
+			<pushbutton name="next_button" draworder="2">
+				<position>1100,5</position>
+				<image function="on" filename="music/next_on.png"></image>
+				<image function="off" filename="music/next_off.png"></image>
+				<image function="pushed" filename="music/next_down.png"></image>
+			</pushbutton>
+			<repeatedimage name="ratings_image" draworder="0" fleximage="no">
+				<filename>music/music_rating.png</filename>
+				<position>85,80</position>
+				<orientation>LeftToRight</orientation>
+			</repeatedimage>
+			<textbutton name="shuffle_button" draworder="2">
+				<position>410,70</position>
+				<image function="on" filename="music/button_on.png"></image>
+				<image function="off" filename="music/button_off.png"></image>
+				<image function="pushed" filename="music/button_down.png"></image>
+				<font>cyan_tiny</font>
+			</textbutton>
+			<textbutton name="repeat_button" draworder="2">
+				<position>630,70</position>
+				<image function="on" filename="music/button_on.png"></image>
+				<image function="off" filename="music/button_off.png"></image>
+				<image function="pushed" filename="music/button_down.png"></image>
+				<font>cyan_tiny</font>
+			</textbutton>
+			<textbutton name="pledit_button" draworder="2">
+				<position>840,70</position>
+				<image function="on" filename="music/button_on.png"></image>
+				<image function="off" filename="music/button_off.png"></image>
+				<image function="pushed" filename="music/button_down.png"></image>
+				<font>cyan_tiny</font>
+			</textbutton>
+			<textbutton name="vis_button" draworder="2">
+				<position>1030,70</position>
+				<image function="on" filename="music/button_on.png"></image>
+				<image function="off" filename="music/button_off.png"></image>
+				<image function="pushed" filename="music/button_down.png"></image>
+				<font>cyan_tiny</font>
+			</textbutton>
+
+		</container>
+
+		<!-- An area to hold info about the playing track -->
+		<container name="trackinfo">
+			<area>60,570,1160,110</area>
+			<textarea name="title_text" draworder="3" align="left">
+				<font>white_big</font>
+				<area>0,0,900,35</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+			<textarea name="artist_text" draworder="3" align="left">
+				<font>white_small</font>
+				<area>0,40,600,35</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+			<textarea name="album_text" draworder="3" align="left">
+				<font>white_small</font>
+				<area>0,75,600,30</area>
+				<cutdown>yes</cutdown>
+			</textarea>
+			<textarea name="time_text" draworder="3" align="right">
+				<font>yellow_big</font>
+				<area>600,0,550,30</area>
+			</textarea>
+			<textarea name="info_text" draworder="3" align="right">
+				<font>yellow_small</font>
+				<area>600,40,550,30</area>
+			</textarea>
+		</container>
+
+	</window>
+
+	<window name="edit_metadata">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>34</size>
+			<size:big>36</size:big>
+			<size:small>32</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<textarea name="title" draworder="0" align="right">
+				<area>650,52,496,100</area>
+				<font>white_huge</font>
+				<value>Track Information</value>
+			</textarea>
+		</container>
+
+		<container name="edit_container">
+			<area>30,130,1220,560</area>
+
+			<textarea name="compilation_label" draworder="1" align="right">
+				<area>0,0,350,30</area>
+				<font>green_small</font>
+				<value>Compilation:</value>
+			</textarea>
+			<checkbox name="compilation_check" draworder="0">
+				<position>1150,0</position>
+				<image function="checked" filename="shared/checked.png"></image>
+				<image function="unchecked" filename="shared/unchecked.png"></image>
+				<image function="checked_high" filename="shared/checked_high.png"></image>
+				<image function="unchecked_high" filename="shared/unchecked_high.png"></image>
+			</checkbox>
+
+			<textarea name="compilation_artist_label" draworder="1" align="right">
+				<area>0,36,350,30</area>
+				<font>green_small</font>
+				<value>Comp. Artist:</value>
+			</textarea>
+			<remoteedit name="compilation_artist_edit" draworder="1" align="left">
+				<area>410,36,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<pushbutton name="searchcompilation_artist_button" draworder="2">
+				<position>1150,36</position>
+				<image function="on" filename="shared/blankbutton_on.png"></image>
+				<image function="off" filename="shared/blankbutton_off.png"></image>
+				<image function="pushed" filename="shared/blankbutton_pushed.png"></image>
+			</pushbutton>
+
+			<textarea name="artist_label" draworder="1" align="right">
+				<area>0,72,350,30</area>
+				<font>green_small</font>
+				<value>Artist:</value>
+			</textarea>
+			<remoteedit name="artist_edit" draworder="1" align="left">
+				<area>410,72,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<pushbutton name="searchartist_button" draworder="2">
+				<position>1150,72</position>
+				<image function="on" filename="shared/blankbutton_on.png"></image>
+				<image function="off" filename="shared/blankbutton_off.png"></image>
+				<image function="pushed" filename="shared/blankbutton_pushed.png"></image>
+			</pushbutton>
+
+			<textarea name="album_label" draworder="1" align="right">
+				<area>0,108,350,30</area>
+				<font>green_small</font>
+				<value>Album:</value>
+			</textarea>
+			<remoteedit name="album_edit" draworder="1" align="left">
+				<area>410,108,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<pushbutton name="searchalbum_button" draworder="2">
+				<position>1150,108</position>
+				<image function="on" filename="shared/blankbutton_on.png"></image>
+				<image function="off" filename="shared/blankbutton_off.png"></image>
+				<image function="pushed" filename="shared/blankbutton_pushed.png"></image>
+			</pushbutton>
+
+			<textarea name="title_text" draworder="1" align="right">
+				<area>0,144,350,30</area>
+				<font>green_small</font>
+				<value>Title:</value>
+			</textarea>
+			<remoteedit name="title_edit" draworder="1" align="left">
+				<area>410,144,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+
+			<textarea name="track_label" draworder="1" align="right">
+				<area>0,180,350,30</area>
+				<font>green_small</font>
+				<value>Track No.:</value>
+			</textarea>
+			<remoteedit name="track_edit" draworder="1" align="left">
+				<area>410,180,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+
+			<textarea name="genre_label" draworder="1" align="right">
+				<area>0,216,350,30</area>
+				<font>green_small</font>
+				<value>Genre:</value>
+			</textarea>
+			<remoteedit name="genre_edit" draworder="1" align="left">
+				<area>410,216,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<pushbutton name="searchgenre_button" draworder="2">
+				<position>1150,216</position>
+				<image function="on" filename="shared/blankbutton_on.png"></image>
+				<image function="off" filename="shared/blankbutton_off.png"></image>
+				<image function="pushed" filename="shared/blankbutton_pushed.png"></image>
+			</pushbutton>
+
+			<textarea name="year_label" draworder="1" align="right">
+				<area>0,252,350,30</area>
+				<font>green_small</font>
+				<value>Year:</value>
+			</textarea>
+			<remoteedit name="year_edit" draworder="1" align="left">
+				<area>410,252,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+
+			<textarea name="rating_label" draworder="1" align="right">
+				<area>0,288,350,30</area>
+				<font>green_small</font>
+				<value>Rating:</value>
+			</textarea>
+			<repeatedimage name="rating_image" draworder="1" fleximage="no">
+				<filename>ui/rating.png</filename>
+				<position>410,298</position>
+				<orientation>LeftToRight</orientation>
+			</repeatedimage>
+			<selector name="rating_button" draworder="0">
+				<area>1150,288,30,30</area>
+				<font>white_small</font>
+				<image function="on" filename="shared/leftright_on.png"></image>
+				<image function="off" filename="shared/leftright_off.png"></image>
+				<image function="pushed" filename="shared/leftright_pushed.png"></image>
+			</selector>
+
+			<textarea name="playcount_label" draworder="1" align="right">
+				<area>0,324,350,30</area>
+				<font>green_small</font>
+				<value>Play Count:</value>
+			</textarea>
+			<textarea name="playcount_text" draworder="1" align="left">
+				<area>410,324,700,30</area>
+				<font>white_small</font>
+			</textarea>
+
+			<textarea name="lastplay_label" draworder="1" align="right">
+				<area>0,360,350,30</area>
+				<font>green_small</font>
+				<value>Last Play:</value>
+			</textarea>
+			<textarea name="lastplay_text" draworder="1" align="left">
+				<area>410,360,700,30</area>
+				<font>white_small</font>
+			</textarea>
+
+			<textarea name="filename_label" draworder="1" align="left">
+				<area>0,460,120,30</area>
+				<font>cyan_small</font>
+				<value>Filename:</value>
+			</textarea>
+			<textarea name="filename_text" draworder="1" align="left">
+				<area>130,460,1100,60</area>
+				<multiline>yes</multiline>
+				<font>white_small</font>
+			</textarea>
+
+			<textbutton name="done_button" draworder="0">
+				<position>510,500</position>
+				<font>white_small</font>
+				<image function="on" filename="shared/button_on.png"></image>
+				<image function="off" filename="shared/button_off.png"></image>
+				<image function="pushed" filename="shared/button_down.png"></image>
+			</textbutton>
+
+		</container>
+	</window>
+
+	<window name="edit_radiometadata">
+
+		<font name="white_huge" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<size>34</size>
+			<size:big>36</size:big>
+			<size:small>32</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_big" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_medium" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_small" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="white_tiny" face="Bitstream Vera Sans">
+			<color>#FFFFFF</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_big" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_medium" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_small" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="gray_tiny" face="Bitstream Vera Sans">
+			<color>#9CA8A5</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_big" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_medium" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_small" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="cyan_tiny" face="Bitstream Vera Sans">
+			<color>#FFA70B</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_big" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_medium" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_small" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green_tiny" face="Bitstream Vera Sans">
+			<color>#44D923</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_big" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_medium" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_small" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="green2_tiny" face="Bitstream Vera Sans">
+			<color>#00FF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_big" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_medium" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_small" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="yellow_tiny" face="Bitstream Vera Sans">
+			<color>#FFFF00</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_big" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>22</size>
+			<size:big>24</size:big>
+			<size:small>20</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_medium" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>20</size>
+			<size:big>22</size:big>
+			<size:small>18</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_small" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>18</size>
+			<size:big>20</size:big>
+			<size:small>16</size:small>
+			<bold>no</bold>
+		</font>
+		<font name="red_tiny" face="Bitstream Vera Sans">
+			<color>#CC000A</color>
+			<dropcolor>#000000</dropcolor>
+			<size>16</size>
+			<size:big>18</size:big>
+			<size:small>14</size:small>
+			<bold>no</bold>
+		</font>
+
+		<container name="background">
+			<area>0,0,1280,720</area>
+			<image name="header" draworder="0" fleximage="no">
+				<filename>bg_header.png</filename>
+				<position>0,0</position>
+			</image>
+			<textarea name="title" draworder="0" align="right">
+				<area>650,52,496,100</area>
+				<font>white_huge</font>
+				<value>Internet Radio Information</value>
+			</textarea>
+		</container>
+
+		<container name="edit_container">
+			<area>30,130,1220,560 </area>
+
+			<textarea name="station_label" draworder="1" align="right">
+				<area>0,0,350,30</area>
+				<font>green_small</font>
+				<value>Station:</value>
+			</textarea>
+			<remoteedit name="station_edit" draworder="1" align="left">
+				<area>410,0,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<pushbutton name="searchstation_button" draworder="2">
+				<position>1150,0</position>
+				<image function="on" filename="shared/blankbutton_on.png"></image>
+				<image function="off" filename="shared/blankbutton_off.png"></image>
+				<image function="pushed" filename="shared/blankbutton_pushed.png"></image>
+			</pushbutton>
+
+			<textarea name="channel_label" draworder="1" align="right">
+				<area>0,36,350,30</area>
+				<font>green_small</font>
+				<value>Channel:</value>
+			</textarea>
+			<remoteedit name="channel_edit" draworder="1" align="left">
+				<area>410,36,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+
+			<textarea name="url_label" draworder="1" align="right">
+				<area>0,72,350,30</area>
+				<font>green_small</font>
+				<value>URL:</value>
+			</textarea>
+			<remoteedit name="url_edit" draworder="1" align="left">
+				<area>410,72,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+
+			<textarea name="metaformat_label" draworder="1" align="right">
+				<area>0,108,350,30</area>
+				<font>green_small</font>
+				<value>Meta Format:</value>
+			</textarea>
+			<remoteedit name="metaformat_edit" draworder="1" align="left">
+				<area>410,108,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+
+			<textarea name="genre_label" draworder="1" align="right">
+				<area>0,144,350,30</area>
+				<font>green_small</font>
+				<value>Genre:</value>
+			</textarea>
+			<remoteedit name="genre_edit" draworder="1" align="left">
+				<area>410,144,700,30</area>
+				<font>white_small</font>
+			</remoteedit>
+			<pushbutton name="searchgenre_button" draworder="2">
+				<position>1150,144</position>
+				<image function="on" filename="shared/blankbutton_on.png"></image>
+				<image function="off" filename="shared/blankbutton_off.png"></image>
+				<image function="pushed" filename="shared/blankbutton_pushed.png"></image>
+			</pushbutton>
+
+			<textarea name="rating_label" draworder="1" align="right">
+				<area>0,180,350,30</area>
+				<font>green_small</font>
+				<value>Rating:</value>
+			</textarea>
+			<repeatedimage name="rating_image" draworder="1" fleximage="no">
+				<filename>ui/rating.png</filename>
+				<position>410,190</position>
+				<orientation>LeftToRight</orientation>
+			</repeatedimage>
+			<selector name="rating_button" draworder="0">
+				<area>1150,180,30,30</area>
+				<font>white_small</font>
+				<image function="on" filename="shared/leftright_on.png"></image>
+				<image function="off" filename="shared/leftright_off.png"></image>
+				<image function="pushed" filename="shared/leftright_pushed.png"></image>
+			</selector>
+
+			<textbutton name="done_button" draworder="0">
+				<position>510,520</position>
+				<font>white_small</font>
+				<image function="on" filename="shared/button_on.png"></image>
+				<image function="off" filename="shared/button_off.png"></image>
+				<image function="pushed" filename="shared/button_down.png"></image>
+			</textbutton>
+		</container>
+
+	</window>
+
+<window name="miniplayer">
+
+    <font name="currenttitle" face="Bitsream Vera Sans">
+        <color>#ffffff</color>
+        <size>16</size>
+        <bold>yes</bold>
+    </font>
+
+    <font name="currentartist" face="Bitsream Vera Sans">
+        <color>#ffffff</color>
+        <size>12</size>
+        <bold>yes</bold>
+    </font>
+
+    <font name="infotext" face="Bitsream Vera Sans">
+        <color>#ffffff</color>
+        <size>10</size>
+        <bold>yes</bold>
+    </font>
+
+    <!--
+        This container determines the size and position of the
+        popup mini player and must be present
+    -->
+    <container name="player_container">
+        <area>600,550,500,95</area>
+    <!--    <image name="track_info_background" draworder="0" fleximage="no">
+            <filename>music/miniplayer_background.png</filename>
+            <position>10,10</position>
+        </image>
+    -->
+<!--
+        <image name="mm_blackhole_border" draworder="0" fleximage="no">
+            <filename>mm_blackhole_border.png</filename>
+            <position>160,20</position>
+            <staticsize>126,128</staticsize>
+        </image>
+    -->
+        <textarea name="title_text" draworder="1" align="left">
+            <font>currenttitle</font>
+            <area>140,15,415,34</area>
+            <cutdown>yes</cutdown>
+        </textarea>
+
+        <textarea name="artist_text" draworder="1" align="left">
+            <font>currentartist</font>
+            <area>140,40,415,25</area>
+            <cutdown>yes</cutdown>
+        </textarea>
+
+        <textarea name="album_text" draworder="1" align="left">
+            <font>currentartist</font>
+            <area>140,55,415,25</area>
+            <cutdown>yes</cutdown>
+        </textarea>
+<!--
+        <repeatedimage name="ratings_image" draworder="1" fleximage="no">
+            <filename>mm_rating.png</filename>
+            <position>160,65</position>
+            <orientation>LeftToRight</orientation>
+        </repeatedimage>
+
+        <textarea name="info_text" draworder="1" align="left">
+            <font>infotext</font>
+            <area>160,129,250,25</area>
+        </textarea>
+-->
+        <textarea name="time_text" draworder="1" align="left">
+            <font>currentartist</font>
+            <area>140,75,185,25</area>
+        </textarea>
+
+        <image name="cover_image" draworder="2">
+            <filename>mm_nothumb.png</filename>
+            <position>40,15</position>
+            <staticsize>82,82</staticsize>
+        </image>
+
+    </container>
+
+</window>
+</mythuitheme>
+
+

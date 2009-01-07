@@ -1,0 +1,11 @@
+mythtv-theme-neuroslink (1.0) intrepid; urgency=low
+
+  * Name change to mythtv-theme-neuroslink
+
+ -- Tom Bruno <tbruno@neurostechnology.com>  Tue, 06 Jan 2009 13:57:06 -0600
+
+mythtv-theme-neurostvpc (0.1) intrepid; urgency=low
+
+  * Initial release based on Mythbutnu theme
+
+ -- Tom Bruno <tbruno@neurostechnology.com>  Wed, 19 Nov 2008 18:27:56 -0600
